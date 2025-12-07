@@ -9,7 +9,6 @@ import { logout } from '../../firebase';
 
 const Navbar = () => {
 
-    const navRef = useRef();
 
 
   const navRef = useRef();
