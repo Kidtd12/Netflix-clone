@@ -30,6 +30,7 @@ window.addEventListener('scroll', ()=>{
             <ul>
 
                 <li>Home</li>
+                 <li>Kids</li>
                 <li>TV Shows</li>
                 <li>Movies</li>
                 <li>New & Popular</li>
